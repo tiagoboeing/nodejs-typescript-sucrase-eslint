@@ -1,10 +1,12 @@
 ![nodejs-and-typescript](https://i.snipboard.io/93yCRK.jpg)
 
-# NodeJS + Typescript (Sucrase compiler + ESLint + Prettier)
+# NodeJS + Typescript
+
+> Different of [basic kit](https://github.com/tiagoboeing/node-typescript-template), this repository is more complete, includes Sucrase compiler, ESLint and Prettier.
 
 ## What is
 
-Clean and initial template to use NodeJS with Typescript, Sucrase compiler + ESLint
+Clean and initial template to use NodeJS with Typescript, Sucrase compiler + ESLint + Prettier
 
 ## How use
 
