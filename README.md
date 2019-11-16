@@ -17,8 +17,6 @@ Clean and initial template to use NodeJS with Typescript, Sucrase compiler + ESL
 
 > The entry file is `server.js`
 
-> Typescript compiler send compiled sources to `dist` folder: `dist/server.js`
-
 Feel free to to customize and collaborate sending a pull request! 😁
 
 ### Build command
